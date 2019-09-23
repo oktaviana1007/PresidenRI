@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Presiden RI</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="name_heroes">name pahlawan</string>
+
+    <string-array name="data_name">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>Habibie</item>
+        <item>Abdurrahman Wahid</item>
+        <item>Megawati</item>
+        <item>Susilo Bambang Yudhoyono</item>
+        <item>Joko widodo</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dr.(H.C.) Ir. H. Soekarno adalah Presiden pertama Republik Baca Selanjutnya... </item>
+        <item>Jenderal Besar TNI (Purn.) H. M. Soeharto, (lahir di Kemusuk, Yogyakarta Baca Selanjutnya...</item>
+        <item>Prof. Dr. Ing. H. Bacharuddin Jusuf Habibie, (lahir di Parepare, Baca Selanjutnya....</item>
+        <item>Dr.(H.C.) K. H. Abdurrahman Wahid atau yang akrab disapa Gus Dur  Baca Selanjutnya....</item>
+        <item>Dr.(H.C.) Hj. Dyah Permata Megawati Setyawati Soekarnoputri Baca Selanjutnya.....</item>
+        <item>Jenderal TNI (HOR.) (Purn.) Prof. Dr. H. Susilo Bambang Yudhoyono  Baca Selanjutnya...</item>
+        <item>Ir. H. Joko Widodo atau Jokowi (lahir di Surakarta, Jawa Tengah,  Baca Selanjutnya...</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soeharto</item>
+        <item>@drawable/habibie</item>
+        <item>@drawable/gusdur</item>
+        <item>@drawable/megawati</item>
+        <item>@drawable/sby</item>
+        <item>@drawable/jokowi</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
